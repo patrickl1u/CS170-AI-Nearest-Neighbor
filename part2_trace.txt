@@ -1,0 +1,20 @@
+python3 main.py 
+Welcome to Group 28's Feature Selection Algorithm.
+
+
+Type the number of the option to run.
+
+1. Forward Selection
+2. Backward Elimination
+3. Custom Algorithm (WIP)
+4. Test 1-NN Classifier Accuracy with Leave One Out Validation
+
+Select option: 4
+
+Testing on small dataset using features [3, 5, 7], result should be around 0.89
+Accuracy using features [3, 5, 7] is: 0.89
+Elapsed time: 0.7699446678161621 seconds
+
+Testing on large dataset using features [1, 15, 27], result should be around 0.949
+Accuracy using features [1, 15, 27] is: 0.949
+Elapsed time: 50.43724799156189 seconds
